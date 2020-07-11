@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 Hi! Welcome to my github.
 
 ### 🌱 Interest
-- Statistic &#9997; &#9997; &#9997;
+- Statistic 
 - Machine learing
-  - predictive modeling (structured data) &#9997; &#9997; &#9997;
-  - Vision &#9997;
-  - NLP &#9997; 
-  - Time series &#9997; &#9997;
+  - predictive modeling (structured data) 
+  - Vision 
+  - NLP 
+  - Time series
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### 🌱 Language
