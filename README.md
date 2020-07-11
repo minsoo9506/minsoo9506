@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 
 Hi! Welcome to my github.
 
-### Interest
-- Statistic
+### 🌱 Interest
+- Statistic &#9997; &#9997; &#9997;
 - Machine learing
-  - predictive modeling (structured data)
-  - Vision
-  - NLP
-  - Time series
+  - predictive modeling (structured data) &#9997; &#9997; &#9997;
+  - Vision &#9997;
+  - NLP &#9997; 
+  - Time series &#9997; &#9997;
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
-### Language
+### 🌱 Language
 - python (average) - will be skilled 
-- C/C++ (beginner)
 - Javascript (beginner) - will be average
-- R (average)
+- C/C++ (beginner)
