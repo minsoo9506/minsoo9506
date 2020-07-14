@@ -25,7 +25,7 @@ Hi! Welcome to my github.
 
 ### 🔭 Interest
 - Statistic 
-- Machine learing
+- Machine learning
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### 🌱 Language
