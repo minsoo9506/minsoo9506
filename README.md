@@ -26,11 +26,6 @@ Hi! Welcome to my github.
 ### 🔭 Interest
 - Statistic 
 - Machine learing
-  - predictive modeling (structured data) 
-  - Vision 
-  - NLP 
-  - Time series
-  - pytorch
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### 🌱 Language
