@@ -20,7 +20,7 @@ Hi! Welcome to my github.
 ### ⚡ Profile
 - 2014.03~2020.08 (Undergraduate) Department of Applied Statistics, Yonsei University
 - 2018.09~2018.12 SKT T-worx Intern (Research, data analysis)
-- 2019.06~ DS school assistant, R&D
+- 2019.06~ DS school data analysis assistant, R&D
 - 2020.08~ (Graduate) Department of Statistic and Data Science, Yonsei University
 
 ### 🔭 Interest
