@@ -24,7 +24,7 @@ Hi! Welcome to my github.I'm studying generally now. But I will be a specialist 
 - 2020.08~ (Graduate) Department of Statistic and Data Science, Yonsei University
 
 ### 🔭 Interest
-- Statistic 
+- Statistics
 - Machine learning
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
