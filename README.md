@@ -32,3 +32,6 @@ Hi! Welcome to my github.I'm studying generally now. But I will be a specialist 
 - Python (average) - will be skilled 
 - Javascript (beginner) - will be average
 - C/C++ (beginner)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoo9506)](https://github.com/anuraghazra/github-readme-stats)
