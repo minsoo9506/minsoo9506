@@ -25,12 +25,11 @@ Hi! Welcome to my github.I'm studying generally now. But I will be a specialist 
 
 ### 🔭 Interest
 - Statistics
-- Machine learning
+- Statistical learning, NLP, Time series, Anomaly detection
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### 🌱 Language
 - Python (average) - will be skilled 
 - Javascript (beginner) - will be average
-- C/C++ (beginner)
 
 
