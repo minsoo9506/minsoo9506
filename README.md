@@ -29,9 +29,9 @@ Hi! Welcome to my github.I'm studying generally now. But I will be a specialist 
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### 🌱 can do
-- Python (average) - will be skilled 
-- Javascript (beginner) - will be average
-- pytorch
+- Python (average) - will be skilled!
+- Javascript (beginner)
+- Pytorch
 - Flask
 
 
