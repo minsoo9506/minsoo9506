@@ -25,7 +25,7 @@ Hi! Welcome to my github.I'm studying generally now. But I will be a specialist 
 
 ### 🔭 Interest
 - Statistics
-- Statistical learning, NLP, Time series, Imbalance learning (Anomaly detection)
+- Statistical learning, NLP, Imbalance learning (Anomaly detection)
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### 🌱 can do
