@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! Welcome to my github.I'm studying generally now. But I will be a specialist before 40 years old :)
+Hi! Welcome to my github.I'm studying generally now.
 
 ### ⚡ Profile
 - 2014.03~2020.08 `Department of Applied Statistics, Yonsei University` (Bachelor's degree)
