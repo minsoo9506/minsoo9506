@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 Hi! Welcome to my github.I'm studying generally now. But I will be a specialist before 40 years old :)
 
 ### ⚡ Profile
-- 2014.03~2020.08 (Undergraduate) Department of Applied Statistics, Yonsei University
-- 2018.09~2018.12 SKT T-worx Intern (Research, data analysis)
-- 2019.06~ DS school data analysis assistant, R&D
-- 2020.08~ (Graduate) Department of Statistic and Data Science, Yonsei University
+- 2014.03~2020.08 `Department of Applied Statistics, Yonsei University` (Bachelor's degree)
+- 2018.09~2018.12 `SKT` T-worx Intern (Research, data analysis)
+- 2019.06~2020.06 `DS school` data analysis assistant, R&D
+- 2020.08~ `Department of Statistic and Data Science, Yonsei University` (Master's degree)
 
 ### 🔭 Interest
 - Statistics
@@ -32,7 +32,7 @@ Hi! Welcome to my github.I'm studying generally now. But I will be a specialist 
 - Python (average)
 - Javascript (beginner)
 - Pytorch
-- Flask
+- Flask, Nodejs (studying)
 
 
 
