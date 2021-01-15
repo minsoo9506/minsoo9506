@@ -26,7 +26,7 @@ Hi! Welcome to my github.I'm studying generally now.
 
 ### 🔭 Interest
 - Statistics
-- Statistical learning, NLP, Imbalance learning (Anomaly detection), RecSys
+- Machine learning (statistical learning), NLP, Imbalance learning (Anomaly detection), RecSys
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### 🌱 Can do
