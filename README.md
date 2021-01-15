@@ -20,7 +20,7 @@ Hi! Welcome to my github.I'm studying generally now.
 ### ⚡ Profile
 - 2014.03~2020.08 `Department of Applied Statistics, Yonsei University` (Bachelor's degree)
 - 2018.09~2018.12 `SKT` T-worx Intern (Research, data analysis)
-- 2019.06~2020.06 `DS school` 데이터사이언스 입문반 assistant, R&D
+- 2019.06~2020.06 `DS school` 데이터사이언스 입문반 조교, R&D
 - 2021.02~2021.04 `fastcampus` PRML 완독 온라인완주반 조교
 - 2020.08~ `Department of Statistics and Data Science, Yonsei University` (Master's degree)
 
