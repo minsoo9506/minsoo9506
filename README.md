@@ -25,8 +25,8 @@ Hi! Welcome to my github.I'm studying generally now.
 - 2020.08~ `Department of Statistics and Data Science, Yonsei University` (Master's degree)
 
 ### 🔭 Interest
-- Statistics (Bayesian Inference)
-- Machine learning
+- Statistics
+- Probabilistic machine learning, Statistical learning
 - Imbalance learning, Anomaly detection
 - NLP
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
