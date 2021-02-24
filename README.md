@@ -15,31 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! Welcome to my github.I'm studying generally now.
-
-### ⚡ Profile
+### Academic Record
 - 2014.03~2020.08 `Department of Applied Statistics, Yonsei University` (Bachelor's degree)
+- 2020.08~ `Department of Statistics and Data Science, Yonsei University` (Master's degree)
+
+### Work Experience
 - 2018.09~2018.12 `SKT` T-worx Intern (Research, data analysis)
 - 2019.06~2020.06 `DS school` 데이터사이언스 입문반 조교, R&D
 - 2021.02~2021.04 `Fastcampus` PRML 완독 온라인완주반 조교 (잠시 중단)
-- 2020.08~ `Department of Statistics and Data Science, Yonsei University` (Master's degree)
 
-### 🔭 Interest
-- Statistics
+
+### Studying
 - Probabilistic machine learning, Statistical learning
 - Imbalance learning, Anomaly detection
 - NLP
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
-### 🌱 Can do
-<p>
+### Want to study someday :)
+- Bayesian neural network
+- Causal inference
+
+<p align='center'> Can do </p>
+<p align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-</p>
-<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
-</p>
-<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+
+<p align='center'> Have experience </p>
+<p align='center'> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
 </p>
