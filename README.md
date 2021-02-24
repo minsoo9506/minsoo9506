@@ -32,9 +32,14 @@ Hi! Welcome to my github.I'm studying generally now.
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### 🌱 Can do
-- <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp, <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-- <img src="https://img.shields.io/badge/PyTorch-#EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
-- <img src="https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp, <img src="https://img.shields.io/badge/Flask-#000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
-
-
-
+<p>
+  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-#EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Flask-#000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
+</p>
