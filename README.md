@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 
 
 ### Studying
-- Probabilistic machine learning, Statistical learning
+- Probabilistic machine learning
 - Imbalance learning, Anomaly detection
-- NLP
+- Causal inference
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### Want to study someday :)
 - Bayesian neural network
-- Causal inference
+- Statistical learning
 
 <p align='center'> Can do </p>
 <p align='center'>
