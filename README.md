@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Causal inference
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
-### Want to study someday :)
+### Want to study soon :)
 - Bayesian neural network
 - Statistical learning
 
