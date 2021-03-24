@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Academic Record
 - 2014.03~2020.08 `Department of Applied Statistics, Yonsei University` (Bachelor's degree)
 - 2020.08~ `Department of Statistics and Data Science, Yonsei University` (Master's degree)
+- 연세대학교 빅데이터 학술동아리 YBIGTA 디자인팀, 데이터엔지니어링팀 활동
 
 ### Work Experience
 - 2018.09~2018.12 `SKT` T-worx Intern (Research, data analysis)
@@ -29,8 +30,9 @@ Here are some ideas to get you started:
 - NLP
 
 ### Studying
-- Imbalance learning, Anomaly detection
-- Causal inference
+- Machine learning
+  - Imbalance learning, Anomaly detection
+  - Causal inference
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### Want to study soon :)
