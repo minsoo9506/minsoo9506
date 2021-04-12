@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 ### Studying
 - Machine learning
   - Imbalance learning, Anomaly detection
-  - Causal inference
+  - Statistical learning
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 
 ### Want to study soon :)
 - Bayesian neural network
-- Statistical learning
+- Causal inference
 
 <p align='center'> Can do </p>
 <p align='center'>
