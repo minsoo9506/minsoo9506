@@ -17,26 +17,32 @@ Here are some ideas to get you started:
 
 ### Academic Record
 - 2014.03~2020.08 `Department of Applied Statistics, Yonsei University` (Bachelor's degree)
+  - GPA : 3.8 / 4.3
+  - 전공GPA : 4.1 / 4.3
 - 2020.08~ `Department of Statistics and Data Science, Yonsei University` (Master's degree)
+  - 머신러닝, 데이터마이닝 연구실
 - 연세대학교 빅데이터 학술동아리 YBIGTA 디자인팀, 데이터엔지니어링팀 활동
+  - 2018.01~2018.12 디자인팀 : 데이터 분석, 데이터 시각화, 머신러닝
+  - 2020.06~2021.04 엔지니어링팀 : 하둡, 스파크 등 분산처리에 대한 공부 (이론 밎 간단한 실습)
 
 ### Work Experience
 - 2018.09~2018.12 `SKT` T-worx Intern (Research, data analysis)
 - 2019.06~2020.06 `DS school` 데이터사이언스 입문반 조교, R&D
-- 2021.02~2021.04 `Fastcampus` PRML 완독 온라인완주반 조교 (잠시 중단)
+- 2021.06~2021.08 Fastcampus Deep Learning 완독 온라인완주반 조교 (예정)
 
 ### Studied
-- Probabilistic machine learning
 - NLP
+- machine learning fundamental
+  - probabilistic machine learning
+  - statistical learning
 
 ### Studying
-- Machine learning
-  - Imbalance learning, Anomaly detection
-  - Statistical learning
+- imbalance learning, anomaly detection
+- time series
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
+- blog : https://minsoo9506.github.io/about/
 
 ### Want to study soon :)
-- Bayesian neural network
 - Causal inference
 
 <p align='center'> Can do </p>
@@ -45,4 +51,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
 
-- blog : https://minsoo9506.github.io/about/
+
