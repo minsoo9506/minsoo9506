@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 - blog : https://minsoo9506.github.io/about/
 
 ### Want to study soon :)
-- Causal inference
+- causal inference
+- ML production
 
 <p align='center'> Can do </p>
 <p align='center'>
