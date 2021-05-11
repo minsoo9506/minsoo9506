@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ### Studying
 - imbalance learning, anomaly detection
 - time series
+- computer science fundamental
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
 - blog : https://minsoo9506.github.io/about/
 
