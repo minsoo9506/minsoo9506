@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - 전공GPA : 4.1 / 4.3
 - 2020.08~ `Department of Statistics and Data Science, Yonsei University` (Master's degree)
   - 머신러닝, 데이터마이닝 연구실
-- 연세대학교 빅데이터 학술동아리 YBIGTA 디자인팀, 데이터엔지니어링팀 활동
+- 연세대학교 빅데이터 학술동아리 `YBIGTA` 디자인팀, 데이터엔지니어링팀 활동
   - 2018.01~2018.12 디자인팀 : 데이터 분석, 데이터 시각화, 머신러닝
   - 2020.06~2021.04 엔지니어링팀 : 하둡, 스파크 등 분산처리에 대한 공부 (이론 밎 간단한 실습)
 
