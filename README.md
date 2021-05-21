@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - 2020.08~ `Department of Statistics and Data Science, Yonsei University` (Master's degree)
   - 머신러닝, 데이터마이닝 연구실
 - 연세대학교 빅데이터 학술동아리 `YBIGTA` 디자인팀, 데이터엔지니어링팀 활동
-  - 2018.01~2018.12 디자인팀 : 데이터 분석, 데이터 시각화, 머신러닝
-  - 2020.06~2021.04 엔지니어링팀 : 하둡, 스파크 등 분산처리에 대한 공부 (이론 밎 간단한 실습)
+  - 2018.01~2018.12 디자인팀 : 데이터분석, 데이터시각화, 머신러닝
+  - 2020.06~2021.04 엔지니어링팀 : Hadoop, Spark 등 데이터엔지니어링에 대한 공부 (이론 밎 간단한 실습)
 
 ### Work Experience
-- 2018.09~2018.12 `SKT` T-worx Intern (Research, data analysis)
+- 2018.09~2018.12 `SKT` T-worx Intern (research, data analysis)
 - 2019.06~2020.06 `DS school` 데이터사이언스 입문반 조교, R&D
 - 2021.06~2021.08 `Fastcampus` Deep Learning 완독 온라인완주반 조교 (예정)
 
@@ -41,16 +41,9 @@ Here are some ideas to get you started:
 - time series
 - computer science fundamental
 - [What I learn repo](https://github.com/minsoo9506/What-I-learn)
-- blog : https://minsoo9506.github.io/about/
+- [My blog](https://minsoo9506.github.io/about/)
+- [My CV](https://drive.google.com/file/d/1IN224DfqiSWF_tC30J9fuYPN2YoqKlLy/view?usp=sharing)
 
 ### Want to study soon :)
 - causal inference
 - ML production
-
-<p align='center'> Can do </p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
-
-
