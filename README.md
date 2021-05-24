@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 
 ### Want to study soon :)
 - causal inference
+- Uncertainty
 - ML production
