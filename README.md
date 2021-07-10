@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Work Experience
 - 2018.09~2018.12 `SKT` T-worx Intern (research, data analysis)
 - 2019.06~2020.06 `DS school` 데이터사이언스 입문반 조교, R&D
-- 2021.06~2021.08 `Fastcampus` Deep Learning 완독 온라인완주반 조
+- 2021.06~2021.08 `Fastcampus` Deep Learning 완독 온라인완주반 조교
 
 ### Studied
 - NLP
