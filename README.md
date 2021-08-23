@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 ### Studying
 - (Research Area) time series anomaly detection
-- (Study) data engineering with python
-- [What I learn repo](https://github.com/minsoo9506/What-I-learn) | [My blog](https://minsoo9506.github.io/about/) | [My CV](https://drive.google.com/file/d/1IN224DfqiSWF_tC30J9fuYPN2YoqKlLy/view?usp=sharing)
+- (Group Study) data engineering with python
+- [What-I-learn repo](https://github.com/minsoo9506/What-I-learn) | [blog](https://minsoo9506.github.io/about/) | [CV](https://drive.google.com/file/d/1IN224DfqiSWF_tC30J9fuYPN2YoqKlLy/view?usp=sharing)
 
 ### Want to study soon :)
 - causal inference
