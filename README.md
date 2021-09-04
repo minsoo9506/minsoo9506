@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Who Am I
+- [What-I-learn repo](https://github.com/minsoo9506/What-I-learn)
+- [Blog](https://minsoo9506.github.io/about/)
+- [CV](https://drive.google.com/file/d/1IN224DfqiSWF_tC30J9fuYPN2YoqKlLy/view?usp=sharing)
 
 ### Academic Record
 - 2014.03~2020.08 `Department of Applied Statistics, Yonsei University` (Bachelor's degree)
@@ -28,7 +32,7 @@ Here are some ideas to get you started:
 ### Work Experience
 - 2018.09~2018.12 `SKT` T-worx Intern (research, data analysis)
 - 2019.06~2020.06 `DS school` 데이터사이언스 입문반 조교, R&D
-- 2021.06~2021.08 `Fastcampus` Deep Learning 완독 온라인완주반 조교
+- 2021.07~2021.09 `Fastcampus` Deep Learning 완독 온라인완주반 조교
 
 ### Studied
 - NLP
@@ -38,10 +42,9 @@ Here are some ideas to get you started:
 - imbalance learning, anomaly detection
 
 ### Studying
-- (Research Area) time series anomaly detection
 - (Group Study) data engineering with python
-- [What-I-learn repo](https://github.com/minsoo9506/What-I-learn) | [blog](https://minsoo9506.github.io/about/) | [CV](https://drive.google.com/file/d/1IN224DfqiSWF_tC30J9fuYPN2YoqKlLy/view?usp=sharing)
+- (Group Study) web development
+- causal inference, coding test, time series forecasting with deep learning
 
 ### Want to study soon :)
-- causal inference
 - ML production
