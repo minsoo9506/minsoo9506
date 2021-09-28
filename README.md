@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - imbalance learning, anomaly detection
 
 ### Studying
-- (Group Study) [가짜연구소] data engineering with python
+- (Group Study) data engineering with python
 - (Group Study) web development
 - (Research Area) time series, anomaly detecion
 - causal inference
