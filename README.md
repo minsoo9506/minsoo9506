@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 2014.03~2020.08 `Department of Applied Statistics, Yonsei University` (Bachelor's degree)
   - GPA : 3.8 / 4.3
   - 전공GPA : 4.1 / 4.3
-- 2020.08~ `Department of Statistics and Data Science, Yonsei University` (Master's degree)
+- 2020.08~2022.08 `Department of Statistics and Data Science, Yonsei University` (Master's degree)
   - 머신러닝, 데이터마이닝 연구실
 - 연세대학교 빅데이터 학술동아리 `YBIGTA` 디자인팀, 데이터엔지니어링팀 활동
   - 2018.01~2018.12 디자인팀 : 데이터분석, 데이터시각화, 머신러닝
