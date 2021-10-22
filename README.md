@@ -44,9 +44,5 @@ Here are some ideas to get you started:
 
 ### Studying
 - (Group Study) data engineering with python
-- (Group Study) web development
 - (Research Area) time series, anomaly detecion
-- causal inference
-
-### Want to study soon :)
-- ML production
+- causal inference, MLops
