@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 2018.09~2018.12 `SKT` T-worx Intern (research, data analysis)
 - 2019.06~2020.06 `DS school` 데이터사이언스 입문반 조교, R&D
 - 2021.07~2021.09 `Fastcampus` Deep Learning 완독 온라인완주반 조교
-- 2021.10~ `MakinaRocks` 머신러닝 엔지니어 인턴
+- 2021.10~2021.11 `MakinaRocks` 머신러닝 엔지니어 인턴
 
 ### Studied
 - NLP
