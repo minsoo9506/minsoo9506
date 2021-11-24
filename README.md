@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Who Am I
 - [What-I-learn repo](https://github.com/minsoo9506/What-I-learn)
-- [Blog](https://minsoo9506.github.io/about/)
+- [Blog](https://minsoo9506.github.io)
 - [CV](https://scalloped-sheet-17a.notion.site/Resume-84ff70584a6e4184886821dc17f9af5e)
 
 ### Academic Record
