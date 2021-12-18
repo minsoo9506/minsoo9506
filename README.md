@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Who Am I
 - [What-I-learn repo](https://github.com/minsoo9506/What-I-learn)
 - [Blog](https://minsoo9506.github.io)
-- [CV](https://scalloped-sheet-17a.notion.site/Resume-84ff70584a6e4184886821dc17f9af5e)
+- [Resume](https://scalloped-sheet-17a.notion.site/Resume-84ff70584a6e4184886821dc17f9af5e)
 
 ### Academic Record
 - 2014.03~2020.08 `Department of Applied Statistics, Yonsei University` (Bachelor's degree)
@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 
 ### Studied
 - NLP
-- machine learning fundamental
-  - probabilistic machine learning
-  - statistical learning
+- machine learning fundamental, deep learning
 - imbalance learning, anomaly detection
 
 ### Studying
