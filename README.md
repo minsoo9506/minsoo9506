@@ -46,6 +46,5 @@ Here are some ideas to get you started:
 - imbalance learning, anomaly detection
 
 ### Studying
-- (Group Study) data engineering with python
 - (Research Area) time series anomaly detection
 - causal inference, MLops
