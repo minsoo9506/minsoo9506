@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 
 ### Studying
 - (Research Area) time series anomaly detection
+- Algorithmic marketing
 - causal inference, MLops
