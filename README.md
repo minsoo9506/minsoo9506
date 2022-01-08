@@ -39,11 +39,10 @@ Here are some ideas to get you started:
 - 2021.07~2021.09 `Fastcampus` Deep Learning 완독 온라인완주반 조교
 
 ### Studied
+- ML, DL fundamental
 - NLP
-- machine learning fundamental, deep learning
-- imbalance learning, anomaly detection
 
 ### Studying
-- (Research Area) outlier analysis, anomaly detection (time series, tabular)
-- Algorithmic marketing
-- causal inference, MLops
+- Imbalance Learning, Outlier Analysis, Anomaly Detection (time series, tabular)
+- Algorithmic Marketing
+- Causality, MLops
