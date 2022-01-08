@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 - imbalance learning, anomaly detection
 
 ### Studying
-- (Research Area) time series anomaly detection
+- (Research Area) outlier analysis, anomaly detection (time series, tabular)
 - Algorithmic marketing
 - causal inference, MLops
