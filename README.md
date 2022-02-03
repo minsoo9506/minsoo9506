@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 
 ### Studying
 - Imbalance Learning, Outlier Analysis, Anomaly Detection (time series, tabular)
-- Algorithmic Marketing, Causal Inference
+- Algorithmic Marketing
+- Causal Inference
