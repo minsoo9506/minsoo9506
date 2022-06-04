@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 ### Studied
 - ML, DL fundamental
 - NLP
+- Imbalance Learning, Anomaly Detection (time series, tabular)
 
 ### Studying
-- Imbalance Learning, Outlier Analysis, Anomaly Detection (time series, tabular)
+- ML deployment (project, docker, airflow ...)
+- NLP
 - Causality
