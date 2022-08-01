@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 ### Studying
 - ML Engineering (project, docker, airflow ...)
-- NLP
+- GNN (cs224w)
 - Causality
