@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 - Imbalance Learning, Anomaly Detection (time series, tabular)
 
 ### Studying
-- ML Engineering (project, docker, airflow ...), MLOps
+- ML Engineering
 - GNN (cs224w)
 - Causality
