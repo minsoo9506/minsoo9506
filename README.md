@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ### Studied
 - ML, DL fundamental
-- NLP
+- NLP, GNN basic
 - Imbalance Learning, Anomaly Detection (time series, tabular)
 
 ### Studying
 - ML Engineering
-- GNN (cs224w)
+- RecSys
 - Causality
