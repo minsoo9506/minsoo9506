@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Who Am I
-- [Study summary Blog](https://minsoo9506.github.io)
 - [Resume](https://scalloped-sheet-17a.notion.site/Resume-84ff70584a6e4184886821dc17f9af5e)
 
 ### Academic Record
