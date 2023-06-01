@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 2018.09~2018.12 `SKT` T-worx Intern (research, data analysis)
 - 2021.10~2021.11 `MakinaRocks` Machine Learning Engineer Intern
 - 2021.11~2022.10 `NHN (Payco)` Data Scientist
-- 2022.11~ `kakao` Machine Learning Engineer
+- 2022.11~ `kakao` Data Scientist
 
 ### Other Experience
 - 연세대학교 빅데이터 학술동아리 `YBIGTA` 디자인팀, 데이터엔지니어링팀 활동
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - (have experience) NLP, Time Series, GNN
 
 ### Interest
-- Imbalance Learning, Anomaly Detection (time series, tabular, graph)
+- Imbalance Learning, Anomaly Detection (time series, tabular)
 - Recommendation system
 - Causality
 - Machine Learning Engineering
