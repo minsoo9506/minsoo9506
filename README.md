@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 - Imbalance Learning, Anomaly Detection (time series, tabular)
 - Recommendation system
 - [Causality](https://github.com/minsoo9506/causality-study)
-- Machine Learning Engineering
+- [Machine Learning Engineering](https://github.com/minsoo9506/ML-engineering-study)
