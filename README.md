@@ -37,11 +37,6 @@ Here are some ideas to get you started:
 - 2019.06~2020.06 `DS school` 데이터사이언스 입문반 조교, R&D
 - 2021.07~2021.09 `Fastcampus` Deep Learning 완독 온라인완주반 조교
 
-### Studied
-- ML, DL fundamental
-- Imbalance Learning, Anomaly Detection (time series, tabular)
-- (have experience) NLP, Time Series, GNN
-
 ### Interest
 - Imbalance Learning, Anomaly Detection (time series, tabular)
 - Recommendation system
