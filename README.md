@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Interest
-- Imbalance Learning, Anomaly Detection (time series, tabular)
 - Recommendation system
-- Causality
 - LLM
 - Machine Learning Engineering
